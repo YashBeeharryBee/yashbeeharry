@@ -1,7 +1,11 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div style="position: relative; text-align: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="width: 100%; height: auto;">
+  
+  <h1 style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 2.5em;">Hi 👋, I'm Yash Beeharry</h1>
+  
+  <h3 style="position: absolute; top: 55%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 1.5em;">A passionate frontend and Backend developer from Mauritius</h3>
+</div>
 
-<h1 align="center">Hi 👋, I'm Yash Beeharry</h1>
-<h3 align="center">A passionate frontend and Backend developer from Mauritius</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
