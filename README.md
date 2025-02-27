@@ -22,7 +22,9 @@
 
 - 💬 Ask me about **Coding**
 
-- 📫 How to reach me **beeharryyash29@gmail.com** **https://www.linkedin.com/in/yash-beeharry/**
+- 📫 How to reach me Email ~> **beeharryyash29@gmail.com**
+
+- LinkedIn ~> **https://www.linkedin.com/in/yash-beeharry/**
 
 - ⚡ Fun fact **I think I am Funny**
 
