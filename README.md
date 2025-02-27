@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbeeharrybee&label=Profile%20views&color=0e75b6&style=flat" alt="yashbeeharrybee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yashbeeharry" target="blank"><img src="https://img.shields.io/twitter/follow/yashbeeharry?logo=twitter&style=for-the-badge" alt="yashbeeharry" /></a> </p>
+<p align="left"> <a href="https://twitter.com/beeharry_yash05" target="blank"><img src="https://img.shields.io/twitter/follow/beeharry_yash05?logo=twitter&style=for-the-badge" alt="beeharry_yash05" /></a> </p>
 
 - 🔭 I’m currently working on **Something 😏**
 
