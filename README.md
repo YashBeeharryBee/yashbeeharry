@@ -1,21 +1,22 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yashbeeharrybee&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashbeeharrybee&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Yash Beeharry</h1>
-<h3 align="center">A Passionate Frontend & Backend Developer From Mauritius</h3>
+<h3 align="center">A passionate frontend and Backend developer from Mauritius</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbeeharrybee&label=Profile%20views&color=0e75b6&style=flat" alt="yashbeeharrybee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/beeharry_yash05" target="blank"><img src="https://img.shields.io/twitter/follow/yashbeeharry?logo=twitter&style=for-the-badge" alt="yashbeeharry" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yashbeeharry" target="blank"><img src="https://img.shields.io/twitter/follow/yashbeeharry?logo=twitter&style=for-the-badge" alt="yashbeeharry" /></a> </p>
 
 - 🔭 I’m currently working on **Something 😏**
 
-- 🌱 I’m a graduate in **Bsc Web & Multimedia Developement**
+- 🌱 I’m currently learning **Bsc Web & Multimedia**
 
-- 👯 I’m looking to collaborate on **THE PROJECT 🫡**
+- 👯 I’m looking to collaborate on **THE project 🫡**
 
 - 🤝 I’m looking for help with **THE PROJECT 🥲**
 
